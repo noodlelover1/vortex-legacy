@@ -23,7 +23,7 @@
 
 ## THIS REPO DOES NOT CONTAIN THE WEBSITE SOURCE CODE
 
-I love the open source and community model, but I got several code stealing issue with my website, so there is not any piece of the website's source code in this repo.
+I love the open source and community model, but I got several code stealing issue with my website, so there is not any piece of the website's source code in this repo. But if you wanna help me, you can still open an issue and ask me to contribute, i'll consider giving you access to the private repo.
 
 ## Credits
 All games belongs to their coders. I do not coded any of those games, excepting Bitcoin Clicker<br>
