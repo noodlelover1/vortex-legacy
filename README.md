@@ -1,4 +1,4 @@
-# <img src="favicon.ico" alt="Vrtg Logo" align="right" width="150px"> <div style="text-align: center;">Vortex Legacy</div>
+# <img src="favicon.svg" alt="Vrtg Logo" align="right" width="150px"> <div style="text-align: center;">Vortex Legacy</div>
 Play at https://vrtx-lgc.vercel.app
 
 ## THIS REPO DOES NOT CONTAIN THE WEBSITE SOURCE CODE
