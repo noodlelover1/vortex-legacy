@@ -1,9 +1,30 @@
-# <img src="favicon.svg" alt="Vrtg Logo" align="right" width="150px"> <div style="text-align: center;">Vortex Legacy</div>
-Play at https://vrtx-lgc.vercel.app
+
+<div align='center'>
+
+<img src=favicon.svg alt="logo" width=150 height=150 />
+<br>
+
+
+<h1>Vortex Legacy</h1>
+<p>#1 UBG in the universe</p>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND-blue?style=for-the-badge"/></a>
+<a href="https://noodlelover1.github.io/statgen/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvrtx-lgc.vercel.app&style=for-the-badge"></a>
+
+
+</div>
+
+## Features
+
+- 🎮 100 Games
+- 🌐 Ultraviolet proxy
+- 🫥 Tab cloaking
+- 🚫 No ads
+- 🤩 Beautiful UI
 
 ## THIS REPO DOES NOT CONTAIN THE WEBSITE SOURCE CODE
 
 I love the open source and community model, but I got several code stealing issue with my website, so there is not any piece of the website's source code in this repo.
+
 ## Credits
 All games belongs to their coders. I do not coded any of those games, excepting Bitcoin Clicker<br>
 Credit to the Ultimate Game Stash Doc and gn-math for a lot of games <br>
